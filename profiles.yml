@@ -6,7 +6,7 @@ default:
 
     dev: # User-Password config
       type: snowflake
-      account: verneh@gmail.com
+      account: DBT_CLOUD_DEV
       user: DBT_CLOUD_DEV
       password: Abc12345
       role: TRANSFORMER_DEV
